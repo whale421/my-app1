@@ -4,10 +4,9 @@ body::-webkit-scrollbar {
 }
 
 .dd {
-  display: flex;
-  flex-direction: column;
-  height: 100%;
-  overflow: hidden;
+  position: relative;
+  left: 440px;
+  top: -90px;
 }
 .dd2 {
   display: flex;
